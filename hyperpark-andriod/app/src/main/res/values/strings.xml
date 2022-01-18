@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Hyper Park</string>
+    <string name="slot_1">S1</string>
+
+    <string-array name="cities">
+        <item>Faisalabad</item>
+        <item>Lahore</item>
+        <item>Islamabad</item>
+    </string-array>
+
+    <string-array name="fsd_malls">
+        <item>Imtiaz Mart</item>
+        <item>Layallpur Galleria</item>
+        <item>Chase Up</item>
+    </string-array>
+    <string-array name="lhr_malls">
+        <item>Emporium</item>
+        <item>Packages Mall</item>
+        <item>Pace Mall</item>
+    </string-array>
+    <string-array name="isb_malls">
+        <item>Centaurus</item>
+        <item>Giga Mall</item>
+        <item>Mall of Islamabad</item>
+    </string-array>
+</resources>

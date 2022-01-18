@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1070627374725",
+    "firebase_url": "https://parkinglot-afbaf-default-rtdb.firebaseio.com",
+    "project_id": "parkinglot-afbaf",
+    "storage_bucket": "parkinglot-afbaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070627374725:android:b6e8cd4255a74f73468bec",
+        "android_client_info": {
+          "package_name": "com.example.hyperparkfyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070627374725-dsoa9p1uh4pa7t3odcr7mrtdgu62gbd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCiI5gY27QCXu1gc-jfNfo5CfG-ntF8cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070627374725-dsoa9p1uh4pa7t3odcr7mrtdgu62gbd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,730 @@
+{
+  "Faisalabad" : {
+    "Imtiaz Mart" : {
+      "ParkingSlots" : {
+        "p1" : [ null, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "19:55:01.307638",
+          "Exit_time" : "19:57:29.226559",
+          "Id" : 1,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "19:58:35.057661",
+          "Exit_time" : "20:00:05.402402",
+          "Id" : 1,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:07:45.805929",
+          "Exit_time" : "20:12:55.739926",
+          "Id" : 1,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:15:53.179997",
+          "Exit_time" : "20:18:02.874739",
+          "Id" : 1,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:21:46.828874",
+          "Exit_time" : "20:32:13.610538",
+          "Id" : 1,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:32:56.717789",
+          "Exit_time" : "20:42:37.356769",
+          "Id" : 1,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:44:25.565986",
+          "Exit_time" : "20:45:11.836355",
+          "Id" : 1,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "14:48:57.280333",
+          "Exit_time" : "14:49:10.754005",
+          "Id" : 1,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "15:07:17.886496",
+          "Exit_time" : "15:07:27.711246",
+          "Id" : 1,
+          "Status" : "Booked"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "15:08:23.211383",
+          "Exit_time" : "15:08:31.837364",
+          "Id" : 1,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "15:10:58.430299",
+          "Exit_time" : "15:11:30.125130",
+          "Id" : 1,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "15:14:10.188935",
+          "Exit_time" : "15:18:02.764040",
+          "Id" : 1,
+          "Status" : "Not Available"
+        } ],
+        "p2" : [ null, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:02:32.030956",
+          "Exit_time" : "20:15:54.448103",
+          "Id" : 2,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:18:03.400747",
+          "Exit_time" : "20:28:22.070360",
+          "Id" : 2,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:28:28.291939",
+          "Exit_time" : "20:35:09.801162",
+          "Id" : 2,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:36:19.646474",
+          "Exit_time" : "20:37:10.121576",
+          "Id" : 2,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:38:35.828824",
+          "Exit_time" : "20:39:51.188890",
+          "Id" : 2,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:41:51.508566",
+          "Exit_time" : "20:44:26.753690",
+          "Id" : 2,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "20:45:19.338804",
+          "Exit_time" : "14:49:18.218922",
+          "Id" : 2,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "15:08:06.689747",
+          "Exit_time" : "15:08:16.808584",
+          "Id" : 2,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "15:11:40.124068",
+          "Exit_time" : "15:14:01.723638",
+          "Id" : 2,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "15:17:54.436390",
+          "Exit_time" : "99:99:99",
+          "Id" : 2,
+          "Status" : "Booked"
+        } ],
+        "p3" : [ null, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "19:52:25.305652",
+          "Exit_time" : "19:55:03.857579",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "19:57:20.744336",
+          "Exit_time" : "19:58:37.610978",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:00:07.333077",
+          "Exit_time" : "20:00:54.392756",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:03:20.000881",
+          "Exit_time" : "20:06:36.190125",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:09:58.399451",
+          "Exit_time" : "20:15:55.050745",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:21:41.671856",
+          "Exit_time" : "20:27:37.917135",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:28:55.793853",
+          "Exit_time" : "20:30:35.338874",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:31:00.526979",
+          "Exit_time" : "20:32:20.207759",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:33:04.661585",
+          "Exit_time" : "20:34:58.463273",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:35:04.345176",
+          "Exit_time" : "20:35:24.253060",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:35:30.373133",
+          "Exit_time" : "20:37:24.173256",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:37:30.092649",
+          "Exit_time" : "20:37:57.891182",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:38:04.472161",
+          "Exit_time" : "20:38:43.250304",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:38:48.166854",
+          "Exit_time" : "20:38:54.246039",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:38:59.718433",
+          "Exit_time" : "20:39:20.982902",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:39:33.022734",
+          "Exit_time" : "20:39:51.788002",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "20:41:09.161528",
+          "Exit_time" : "14:49:18.822934",
+          "Id" : 3,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "14:50:27.757910",
+          "Exit_time" : "15:17:55.711373",
+          "Id" : 3,
+          "Status" : "Not Available"
+        } ],
+        "p4" : [ null, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "19:50:23.884972",
+          "Exit_time" : "19:50:55.696662",
+          "Id" : 4,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "19:58:38.216092",
+          "Exit_time" : "20:00:08.631072",
+          "Id" : 4,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:00:55.897063",
+          "Exit_time" : "20:02:24.310024",
+          "Id" : 4,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:09:59.603079",
+          "Exit_time" : "20:12:57.527695",
+          "Id" : 4,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:15:55.651819",
+          "Exit_time" : "20:33:56.444137",
+          "Id" : 4,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:34:51.941290",
+          "Exit_time" : "20:36:22.257343",
+          "Id" : 4,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:37:11.326727",
+          "Exit_time" : "20:37:24.774083",
+          "Id" : 4,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:37:31.262748",
+          "Exit_time" : "20:37:37.821612",
+          "Id" : 4,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:37:58.506936",
+          "Exit_time" : "20:38:05.717671",
+          "Id" : 4,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:38:18.964418",
+          "Exit_time" : "20:38:24.985417",
+          "Id" : 4,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:38:37.608012",
+          "Exit_time" : "20:38:54.794790",
+          "Id" : 4,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:39:00.911122",
+          "Exit_time" : "20:41:53.315804",
+          "Id" : 4,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "20:42:39.179642",
+          "Exit_time" : "14:49:20.878603",
+          "Id" : 4,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "14:57:09.568931",
+          "Exit_time" : "15:17:56.654938",
+          "Id" : 4,
+          "Status" : "Not Available"
+        } ],
+        "p5" : [ null, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:02:53.484566",
+          "Exit_time" : "20:05:50.528744",
+          "Id" : 5,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:05:57.857389",
+          "Exit_time" : "20:06:30.668401",
+          "Id" : 5,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:06:38.599993",
+          "Exit_time" : "20:09:53.384040",
+          "Id" : 5,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:15:56.856817",
+          "Exit_time" : "20:20:02.919591",
+          "Id" : 5,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:27:33.721428",
+          "Exit_time" : "20:28:43.355283",
+          "Id" : 5,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:29:24.043072",
+          "Exit_time" : "20:41:53.917611",
+          "Id" : 5,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "14:50:59.166634",
+          "Exit_time" : "14:51:07.490161",
+          "Id" : 5,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "14:51:15.923109",
+          "Exit_time" : "14:51:26.134585",
+          "Id" : 5,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "14:53:50.065700",
+          "Exit_time" : "14:55:40.449395",
+          "Id" : 5,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "14:56:06.139988",
+          "Exit_time" : "14:56:15.154917",
+          "Id" : 5,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "14:56:24.218268",
+          "Exit_time" : "14:56:43.075735",
+          "Id" : 5,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "15:17:57.551963",
+          "Exit_time" : "99:99:99",
+          "Id" : 5,
+          "Status" : "Booked"
+        } ],
+        "p6" : [ null, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "19:53:33.243681",
+          "Exit_time" : "19:54:30.143729",
+          "Id" : 6,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "19:54:38.772343",
+          "Exit_time" : "19:55:06.777695",
+          "Id" : 6,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "19:57:34.731608",
+          "Exit_time" : "19:57:43.945577",
+          "Id" : 6,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "19:58:21.754123",
+          "Exit_time" : "19:58:32.049968",
+          "Id" : 6,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:19:56.296743",
+          "Exit_time" : "20:27:34.761249",
+          "Id" : 6,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:27:59.390187",
+          "Exit_time" : "20:29:06.153983",
+          "Id" : 6,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:31:14.775434",
+          "Exit_time" : "20:33:46.105812",
+          "Id" : 6,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:38:13.946854",
+          "Exit_time" : "20:38:45.055763",
+          "Id" : 6,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:38:50.576719",
+          "Exit_time" : "20:41:11.467989",
+          "Id" : 6,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:41:54.519527",
+          "Exit_time" : "20:46:27.877605",
+          "Id" : 6,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:46:34.516596",
+          "Exit_time" : "20:47:16.174436",
+          "Id" : 6,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "15:17:59.662084",
+          "Exit_time" : "20:48:48.170553",
+          "Id" : 6,
+          "Status" : "Booked"
+        } ],
+        "p7" : [ null, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:00:13.045905",
+          "Exit_time" : "20:00:50.177690",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:02:07.546499",
+          "Exit_time" : "20:07:51.856811",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:13:36.267363",
+          "Exit_time" : "20:13:44.070558",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:14:49.318904",
+          "Exit_time" : "20:15:59.270031",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:20:04.126024",
+          "Exit_time" : "20:25:16.425266",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:25:21.934973",
+          "Exit_time" : "20:28:06.319344",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:29:06.890818",
+          "Exit_time" : "20:29:27.098423",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:29:32.519382",
+          "Exit_time" : "20:32:22.629433",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:32:28.841382",
+          "Exit_time" : "20:32:55.434798",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:33:01.448194",
+          "Exit_time" : "20:33:18.105156",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:34:55.148296",
+          "Exit_time" : "20:38:56.595390",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:39:03.305759",
+          "Exit_time" : "20:39:30.415078",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:42:42.688973",
+          "Exit_time" : "20:44:30.366765",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:44:36.685320",
+          "Exit_time" : "20:45:16.729728",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:45:24.155939",
+          "Exit_time" : "20:45:38.371674",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:45:47.336888",
+          "Exit_time" : "20:46:03.493346",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:46:09.518764",
+          "Exit_time" : "20:46:29.185168",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "20:48:42.752915",
+          "Exit_time" : "14:49:23.897366",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "14:50:32.773194",
+          "Exit_time" : "14:57:04.397848",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "14:57:13.076727",
+          "Exit_time" : "15:06:25.719334",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "15:06:46.787139",
+          "Exit_time" : "15:14:52.594858",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "15:15:00.041260",
+          "Exit_time" : "15:15:33.356858",
+          "Id" : 7,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "15:15:40.962717",
+          "Exit_time" : "15:18:00.855849",
+          "Id" : 7,
+          "Status" : "Not Available"
+        } ],
+        "p8" : [ null, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "19:48:13.120294",
+          "Exit_time" : "19:49:56.900714",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "19:55:08.577313",
+          "Exit_time" : "19:55:44.703616",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "19:56:41.913166",
+          "Exit_time" : "19:57:28.568519",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:06:41.609829",
+          "Exit_time" : "20:09:56.496288",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:13:11.376448",
+          "Exit_time" : "20:19:58.704617",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:24:51.734237",
+          "Exit_time" : "20:25:17.021624",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:25:23.144899",
+          "Exit_time" : "20:27:36.008349",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:27:41.530479",
+          "Exit_time" : "20:28:45.758975",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:28:53.189585",
+          "Exit_time" : "20:29:27.706537",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:30:45.472439",
+          "Exit_time" : "20:39:31.017552",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:39:55.402572",
+          "Exit_time" : "20:40:03.030511",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:43:19.520365",
+          "Exit_time" : "20:44:30.967047",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:44:37.893559",
+          "Exit_time" : "20:45:17.331749",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:47:04.966439",
+          "Exit_time" : "20:47:17.923589",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:47:24.577916",
+          "Exit_time" : "20:47:50.869966",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-24",
+          "Entry_time" : "20:47:56.891259",
+          "Exit_time" : "20:48:04.417486",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "20:48:10.393957",
+          "Exit_time" : "14:49:16.207764",
+          "Id" : 8,
+          "Status" : "Not Available"
+        }, {
+          "Date" : "2021-08-25",
+          "Entry_time" : "15:18:01.413633",
+          "Exit_time" : "99:99:99",
+          "Id" : 8,
+          "Status" : "Booked"
+        } ]
+      }
+    }
+  }
+}
